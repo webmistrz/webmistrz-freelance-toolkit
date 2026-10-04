@@ -1,0 +1,20 @@
+{
+  "name": "webmistrz-freelance-toolkit",
+  "displayName": "Freelance Toolkit",
+  "version": "0.1.0",
+  "description": "Two Agent Skills for freelancers and small agencies: turn a client brief into a scoped estimate with risks, and digest long client chats or email threads into decisions, open questions and next steps.",
+  "author": {
+    "name": "webmistrz",
+    "url": "https://github.com/webmistrz"
+  },
+  "homepage": "https://github.com/webmistrz/webmistrz-freelance-toolkit",
+  "repository": "https://github.com/webmistrz/webmistrz-freelance-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "freelance",
+    "estimate",
+    "scoping",
+    "project-management",
+    "digest"
+  ]
+}
